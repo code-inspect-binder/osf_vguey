@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/vguey_src/2020_12_23_PowerAnalysisIL/R")' >> /home/jovyan/.Rprofile
